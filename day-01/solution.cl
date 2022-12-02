@@ -5,10 +5,10 @@
 (defparameter *input* (uiop:read-file-lines "input.txt"))
 
 (defmacro next-partial-sum (partial-sum line)
-	`(setf ,partial-sum
-		(if (= (length ,line) 0)
-			0
-			(+ ,partial-sum (parse-integer ,line)))))
+  `(setf ,partial-sum
+    (if (= (length ,line) 0)
+      0
+      (+ ,partial-sum (parse-integer ,line)))))
 
 ; First half solution
 (loop for line in *input*
