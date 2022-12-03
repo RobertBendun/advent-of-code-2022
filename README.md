@@ -15,3 +15,7 @@ Main reason for using this language is to learn loop macro which is _wild_ - a w
 And from first usage it seems quite nice. Whish more functional programming language have EDSLs like that.
 
 Used [sbcl](https://www.sbcl.org/) implementation and documentation from [Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/).
+
+### Day 2 - R
+
+Encoding solution as linear algebra equations is easy - the hard part is handling input and my solution definitely can be improved by some R magic that is unknown to me.
