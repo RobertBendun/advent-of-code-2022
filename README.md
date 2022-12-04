@@ -19,3 +19,7 @@ Used [sbcl](https://www.sbcl.org/) implementation and documentation from [Lisp C
 ### Day 2 - R
 
 Encoding solution as linear algebra equations is easy - the hard part is handling input and my solution definitely can be improved by some R magic that is unknown to me.
+
+### Day 3 - Scala
+
+It's astonishing how many of languages that I tried for this day ware hard to launch. But anyway, Scala shines in comparison both for batteries included approach and ease of use.
