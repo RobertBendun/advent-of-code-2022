@@ -23,3 +23,7 @@ Encoding solution as linear algebra equations is easy - the hard part is handlin
 ### Day 3 - Scala
 
 It's astonishing how many of languages that I tried for this day ware hard to launch. But anyway, Scala shines in comparison both for batteries included approach and ease of use.
+
+### Day 4 - AWK
+
+It's to easy! AWK is glorious with it's simplicity.
