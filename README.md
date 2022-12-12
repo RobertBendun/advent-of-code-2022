@@ -31,3 +31,7 @@ It's to easy! AWK is glorious with it's simplicity.
 ### Day 5 - Python
 
 Yeah I know Python but it's the best language for this task that has come to my mind. Tried Ada, Raku, Common Lisp and Haskell but in each I wasn't as satisified with direction that solution was going to.
+
+### Day 6 - C++
+
+This problem looked like designed for standard library that can with ease convert between sets and slices of strings, and C++ is one of them. Another reason is to see how C++ looks against other languages so far, and it's not a bad look despite its bad reputation.
