@@ -27,3 +27,7 @@ It's astonishing how many of languages that I tried for this day ware hard to la
 ### Day 4 - AWK
 
 It's to easy! AWK is glorious with it's simplicity.
+
+### Day 5 - Python
+
+Yeah I know Python but it's the best language for this task that has come to my mind. Tried Ada, Raku, Common Lisp and Haskell but in each I wasn't as satisified with direction that solution was going to.
