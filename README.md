@@ -35,3 +35,9 @@ Yeah I know Python but it's the best language for this task that has come to my 
 ### Day 6 - C++
 
 This problem looked like designed for standard library that can with ease convert between sets and slices of strings, and C++ is one of them. Another reason is to see how C++ looks against other languages so far, and it's not a bad look despite its bad reputation.
+
+### Day 7 - Zig (0.9.1)
+
+"The Zig language is designed to prevent bugs by making strategic use of friction." [said creator of Zig](https://github.com/ziglang/zig/issues/3320#issuecomment-884478906) and this is the definition of the language. Cost of entry to this language is even higher then Rust beacuse toolchain is not as helpful as in Rust and documentation is not even started for most functions and types.
+
+The preable of solution just to read file line by line is massive and I don't think that this will change soon - even Zig's _hello world_ is so noisy after all this time. Zig seems like language optimized for larger software and this kind of one time use programs are second class citizens in it's audience.
