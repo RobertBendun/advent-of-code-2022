@@ -49,3 +49,5 @@ I miss rank polymorphism in every langauge that otherwise feels great. Parts lik
 Someone added combinatory logic to this lambda calculus with `phi` combinator known in Haskell as `flip liftM2`. Reproduction of the same code patterns give birth to `solve` function which nicely removes code duplication with a cost of code obscuration. Haskell has this annoying property that it encourouges building opon layers of abstractions which makes algorithms hide behind the curtain made of mathematical beauty.
 
 Next time first I shall upload simple solution and then play with combinatorial point-free toys.
+
+If you wish to see combinators shine I recommend [Combinatory Logic and Combinators in Array Languages](https://raw.githubusercontent.com/codereport/Content/main/Publications/Combinatory_Logic_and_Combinators_in_Array_Languages.pdf) by [@codereport](https://github.com/codereport)
