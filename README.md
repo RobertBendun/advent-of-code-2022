@@ -41,3 +41,11 @@ This problem looked like designed for standard library that can with ease conver
 "The Zig language is designed to prevent bugs by making strategic use of friction." [said creator of Zig](https://github.com/ziglang/zig/issues/3320#issuecomment-884478906) and this is the definition of the language. Cost of entry to this language is even higher then Rust beacuse toolchain is not as helpful as in Rust and documentation is not even started for most functions and types.
 
 The preable of solution just to read file line by line is massive and I don't think that this will change soon - even Zig's _hello world_ is so noisy after all this time. Zig seems like language optimized for larger software and this kind of one time use programs are second class citizens in it's audience.
+
+### Day 8 - Haskell
+
+I miss rank polymorphism in every langauge that otherwise feels great. Parts like `f . concat` are annoying and I wish there would be a language with Haskell like syntax and rank polymorphism.
+
+Someone added combinatory logic to this lambda calculus with `phi` combinator known in Haskell as `flip liftM2`. Reproduction of the same code patterns give birth to `solve` function which nicely removes code duplication with a cost of code obscuration. Haskell has this annoying property that it encourouges building opon layers of abstractions which makes algorithms hide behind the curtain made of mathematical beauty.
+
+Next time first I shall upload simple solution and then play with combinatorial point-free toys.
